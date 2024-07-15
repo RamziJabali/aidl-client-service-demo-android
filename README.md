@@ -9,5 +9,6 @@ https://github.com/user-attachments/assets/709fbefa-50ba-4aa2-9601-19d96c3ddc71
 
 # Guide
 
-(AIDL Guide)[https://ramzijabali.github.io/articles/Dev-Notes/AIDL-Guide]
-(Deep Link Guide)[https://ramzijabali.github.io/articles/Dev-Notes/Deep-Link-Guide]
+[AIDL Guide](https://ramzijabali.github.io/articles/Dev-Notes/AIDL-Guide)
+
+[Deep Link Guide](https://ramzijabali.github.io/articles/Dev-Notes/Deep-Link-Guide)
